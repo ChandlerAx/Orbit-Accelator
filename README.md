@@ -7,8 +7,8 @@ You are responsible for how you execute this script.
 
 
 # Installation
-git clone https://github.com/ChandlerAx/MultiplexDDoS.git
-cd MultiplexDDoS
-python3 worker.py
+git clone https://github.com/ChandlerAx/MultiplexDDoS.git <br>
+cd MultiplexDDoS <br>
+python3 worker.py <br>
 
 You may need install the asked modules and if you use python2 use python worker.py, make sure to update the socks5 (most are dead)
