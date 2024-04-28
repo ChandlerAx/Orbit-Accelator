@@ -4,6 +4,9 @@ This repository contains a Python-based multiplex DDoS flooder with SOCKS5 proxy
 
 **Note: This tool is intended for educational purposes only. Unauthorized use is strictly prohibited.**
 
+<br>
+Make sure to clean socks5.txt and put your own proxies with socks5:// format
+
 ## Features
 
 - Multiplex DDoS attack capability
