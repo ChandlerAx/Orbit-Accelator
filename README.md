@@ -1,6 +1,9 @@
 # Orbit-Accelator designed for stability and performance DDoS attack bypass floods.
 Created by DDoS engineer Chandler Axton, custom solutions are discussable. <br>
-Contact: https://anonymous-routing-entry4368.wiki/#api_usr_ChandlerAxton
+Contact: /
+
+## Methods
+- Coming soon
 
 ## Features
 
