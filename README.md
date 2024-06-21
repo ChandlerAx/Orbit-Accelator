@@ -2,20 +2,19 @@
 
 
 
-# Orbit-Accelator designed for stability and performance DDoS attack bypass floods.
+# Shaking the internet with the newest performance rates
 Created by DDoS engineer Chandler Axton, custom solutions are discussable. <br>
-Contact: Discord chandl8r
+Discord chandl8r
 
 ## Methods
-- HTTP-SHAKE | special multiplex technology avarage 100,000 r/s per CPU thread
-- HTTP-SHAKE-PROXY | special multiplex technology avarage 80,000 r/s per CPU thread with proxies support
+- HTTP-SHAKE | special multiplex technology avarage 100,000 r/s per CPU thread with proxies support
 
 ## Features
 
 - Multiplex DDoS attack capability
-- Hard bypass methods
+- Bypass methods
 - Proxy support
-- Easy-to-use Python script
+- High performance & stable
 
 ## Installation
 
