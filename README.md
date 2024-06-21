@@ -7,7 +7,8 @@ Created by DDoS engineer Chandler Axton, custom solutions are discussable. <br>
 Contact: Discord chandl8r
 
 ## Methods
-- Coming soon
+- HTTP-SHAKE | special multiplex technology avarage 100,000 r/s per CPU thread
+- HTTP-SHAKE-PROXY | special multiplex technology avarage 80,000 r/s per CPU thread with proxies support
 
 ## Features
 
