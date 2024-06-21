@@ -4,7 +4,7 @@
 
 # Orbit-Accelator designed for stability and performance DDoS attack bypass floods.
 Created by DDoS engineer Chandler Axton, custom solutions are discussable. <br>
-Contact: /
+Contact: Discord chandl8r
 
 ## Methods
 - Coming soon
