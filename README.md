@@ -8,10 +8,11 @@ Created by DDoS engineer Chandler Axton, custom solutions are discussable. <br>
 Discord chandl8r
 
 ## Methods
-- HTTP-SHAKE | special multiplex technology avarage 100,000 r/s per CPU thread with proxies support
+- HTTP-SHAKE | special multiplex technology avarage 100,000 - 200,000 r/s per CPU thread (NO PROXIES)
+- HTTP-SHAKE-PROXY | same method but with proxies (coming soon)
 
 <br>
-Extra: Without DDos protection and high frequency CPU like Ryzen you could reach 600,000 pp/s per CPU thread on the Layer7 OSI model (the frequency can go up to 700,000 pp/s with 200.000 - 300,000 concurrent http requests)
+Extra: Servers/VPS without DDoS protection and high frequenty CPU cores are recommed
 
 ## Features
 
