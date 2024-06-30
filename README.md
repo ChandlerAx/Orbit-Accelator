@@ -16,10 +16,10 @@ Extra: Servers/VPS without DDoS protection and high frequenty CPU cores are reco
 
 ## Features
 
-- Multiplex DDoS attack capability
-- Bypass methods
-- Proxy support
-- High performance & stable
+- Auto proxy scraper
+- Proxies support
+- Single-core performance
+- High performance & Bypass
 
 ## Installation
 
