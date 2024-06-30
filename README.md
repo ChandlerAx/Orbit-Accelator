@@ -25,4 +25,4 @@ Extra: Without DDos protection and high frequency CPU like Ryzen you could reach
 ```bash
 git clone https://github.com/ChandlerAx/Orbit-Accelator.git
 cd Orbit-Accelator
-python3 orbit.py
+python3 main.py
