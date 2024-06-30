@@ -10,8 +10,8 @@ Created by DDoS engineer **Chandler Axton**, Orbit-Accelator delivers high perfo
 
 ## Methods
 
-- **HTTP-SHAKE**: Utilizes special multiplex technology averaging 100,000 - 200,000 r/s per CPU thread (NO PROXIES).
-- **HTTP-SHAKE-PROXY**: The same method with proxy support (coming soon).
+- **HTTP-SHAKE**: multiplex http flood made for large backends (no proxies)
+- **HTTP-SHAKE-PROXY**: multiplex http flood made for large backends (with proxies, coming soon)
 
 > **Note**: For optimal performance, it is recommended to use servers/VPS without DDoS protection and with high-frequency CPU cores.
 
