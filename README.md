@@ -19,7 +19,7 @@ Created by DDoS engineer **Chandler Axton**, Orbit-Accelator delivers high perfo
 
 - 🛠️ **Auto Proxy Scraper**: Automates the process of scraping proxies.
 - 🌐 **Proxy Support**: Compatible with various proxy types.
-- ⚙️ **Single-Core Performance**: Efficient performance using a single CPU core.
+- ⚙️ **Single-Core Performance**: Efficient performance using a single CPU core (multi core support).
 - 🚀 **High Performance & Bypass**: Optimized for maximum performance and bypass capabilities.
 
 ## Installation
