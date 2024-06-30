@@ -2,6 +2,7 @@
 ![Orbit-Accelator Banner](https://github.com/ChandlerAx/Orbit-Accelator/assets/151396622/0ae04d8c-2493-4d0a-9aeb-e5344bec1bb4)
 
 # Orbit-Accelator: Shaking the Internet with the Newest Performance Rates 🚀
+Currently Cloudflare cannot be bypassed unless no rules are implemented such as http-ddos, rate limit, ddos ​​sensitivity
 
 ## Overview
 Created by DDoS engineer **Chandler Axton**, Orbit-Accelator delivers high performance solutions for various network challenges. Please write an issue or contact me on discord for new methods or bypasses.
