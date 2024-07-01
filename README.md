@@ -36,3 +36,17 @@ cd Orbit-Accelator
 
 # Run the main script
 python3 main.py
+```
+
+## Running Orbit Accelator in Pterodactyl container
+
+```bash
+# Go to startup => GIT REPO ADDRESS
+https://github.com/ChandlerAx/Orbit-Accelator
+
+# Startup file
+main.py
+
+# Now run the script
+# Go to console, in command enter target then workers and time as last
+```
